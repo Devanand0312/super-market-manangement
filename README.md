@@ -21,18 +21,7 @@
 
 ## Author
 
-👤 **Jay Khatri**
 
-* Twitter: [@jayskhatri](https://twitter.com/jayskhatri)
-* Github: [@jayskhatri](https://github.com/jayskhatri)
-
-👤 **Isha Khimsurya**
-
-* Github: [@ishakhimsurya](https://github.com/ishakhimsurya)
-
-👤 **Naimish Ghevariya**
-
-* Github: [@NaimishGhevariya](https://github.com/NaimishGhevariya)
 
 ## 🤝 Contributing
 
